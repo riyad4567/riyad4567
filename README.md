@@ -73,9 +73,9 @@ PyTorch • PyTorch Geometric • NumPy • Pandas • Matplotlib
 
 ## 📊 GitHub Stats
 
-| Stats                                                                                              | Languages                                                                                                    |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| ![](https://github-readme-stats.vercel.app/api?username=riyad4567\&show_icons=true\&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad4567\&layout=compact\&theme=radical) |
+| 🔥 Stats | 💻 Languages |
+|--------|------------|
+| ![](https://github-readme-stats.vercel.app/api?username=riyad4567&show_icons=true&theme=radical&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyad4567&layout=compact&theme=radical&hide=perl,ada,tex,vim) |
 
 ---
 
