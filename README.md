@@ -101,21 +101,11 @@
 * 📊 Focused on **Computer Vision + Geometric Reconstruction**
 * 🎯 Goal: Bridge **Software Engineering + AI systems**
 
----
-
-## 📌 Pinned Projects
-
-* 📦 DB-Project
-* 🛒 E-commerce System
-* ☕ Java Projects
-* 🤖 TeamSync (Frontend + Backend)
-
----
-
 ## 🔗 Connect With Me
 
-* 📧 Email: [riyadsdp333@gmail.com](mailto:riyadsdp333@gmail.com)
-* 💼 GitHub: https://github.com/riyad4567
+- 📧 Email: [riyadsdp333@gmail.com](mailto:riyadsdp333@gmail.com)  
+- 💼 GitHub: [Riyad](https://github.com/riyad4567)  
+- 🔗 LinkedIn: [Md. Rabby Hossain](https://www.linkedin.com/in/md-rabby-hosssain-b553633a1/)
 
 ---
 
