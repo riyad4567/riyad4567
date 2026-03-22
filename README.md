@@ -4,14 +4,12 @@
 💻 Software Developer | 🤖 Aspiring ML Engineer
 
 ---
-
 ## 🧑‍💻 About Me
 
 * 🚀 Passionate about building **scalable full-stack systems**
 * 🤖 Interested in **Machine Learning & AI systems (LLMs, GNNs)**
 * 🧠 Strong in **problem solving & competitive programming**
 * 🔬 Currently working on **Computer Vision-based building analysis (Thesis)**
-
 ---
 ## 🛠 Tech Stack
 
