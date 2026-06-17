@@ -73,6 +73,11 @@
 * 🛠 Tech: Node.js, Express.js, Oracle DB
 
 ---
+###🔹 E-Commerce Platform
+🛍 Browse, search, and purchase clothing products online
+🛒 Shopping cart, user authentication, and order management
+⚡ RESTful APIs with responsive frontend and database integration
+🛠 Tech: React.js, Spring Boot, MySQL
 
 ### 🔹 Movie Database System
 
